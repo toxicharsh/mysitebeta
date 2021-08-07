@@ -1,0 +1,68 @@
+body {
+  background-color: #9DDAC6;
+  margin-left: 0;
+  text-align: center;
+}
+.title
+{
+  font-size: 562.5%;
+}
+.topcontainer {
+  position: relative;
+  padding-top: 100px;
+}
+
+img.pro {
+  padding: 50px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.h2_1 {
+  font-family: Oswald, Ariel;
+}
+
+.skill {
+  height: auto;
+  width: 200px;
+}
+
+.biking {
+  height: auto;
+  width: 200px;
+}
+
+h1 {
+  width: 20%;
+  margin: 100px auto 0 auto;
+  font-family: style script, Ariel;
+}
+
+p {
+  font-family: Oswald, Ariel;
+}
+
+.line {
+  padding: 50px;
+  border-style: dotted none none none;
+  width: 5%;
+  height: 0px;
+  border-color: grey;
+  border-width: 10px;
+}
+
+.topcloud {
+  position: absolute;
+  top: 150px;
+  right: 500px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 400px;
+  top: 200px;
+}
+
+.mountain {
+  margin: auto;
+}
